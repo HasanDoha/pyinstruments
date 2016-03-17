@@ -1,2 +1,3 @@
-# pyinstruments
+# PyInstruments
+
 Instrument drivers in Python
