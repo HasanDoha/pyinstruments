@@ -23,8 +23,8 @@ perform, while still providing the flexibility to perform complex tasks with
 relative ease.
 
 url: [https://github.com/mabuchilab/Instrumental](https://github.com/mabuchilab/Instrumental)  
-docs: [http://instrumental-lib.readthedocs.org/en/latest/](http://instrumental-lib.readthedocs.org/en/latest/)
-drivers: [https://github.com/mabuchilab/Instrumental/tree/master/instrumental/drivers](https://github.com/mabuchilab/Instrumental/tree/master/instrumental/drivers)
+docs: [http://instrumental-lib.readthedocs.org/en/latest/](http://instrumental-lib.readthedocs.org/en/latest/)  
+drivers: [https://github.com/mabuchilab/Instrumental/tree/master/instrumental/drivers](https://github.com/mabuchilab/Instrumental/tree/master/instrumental/drivers)  
 
 
 ## Labdrivers
@@ -35,9 +35,9 @@ Labdrivers contains a suite of instrument-specific drivers which can be used to
 interface measurement hardware with Python code, along with a set of Jupyter
 notebooks demonstrating example use cases.
 
-url: [https://github.com/masonlab/labdrivers](https://github.com/masonlab/labdrivers)
-docs: [https://labdrivers.readthedocs.io/en/latest/](https://labdrivers.readthedocs.io/en/latest/)
-drivers: [https://github.com/masonlab/labdrivers/tree/master/labdrivers](https://github.com/masonlab/labdrivers/tree/master/labdrivers)
+url: [https://github.com/masonlab/labdrivers](https://github.com/masonlab/labdrivers)  
+docs: [https://labdrivers.readthedocs.io/en/latest/](https://labdrivers.readthedocs.io/en/latest/)  
+drivers: [https://github.com/masonlab/labdrivers/tree/master/labdrivers](https://github.com/masonlab/labdrivers/tree/master/labdrivers)  
 
 
 ## Lantz - UChicago fork
@@ -51,9 +51,9 @@ rapid application prototyping, development and testing. Lantz benefits from
 Python's extensive library flexibility as a glue language to wrap existing
 drivers and DLLs.
 
-url: [https://github.com/awsch/lantz/tree/drivers_develop](https://github.com/awsch/lantz/tree/drivers_develop)
-docs: [http://lantz.readthedocs.org/en/0.3/](http://lantz.readthedocs.org/en/0.3/)
-drivers: [https://github.com/awsch/lantz/tree/drivers_develop/lantz/drivers](https://github.com/awsch/lantz/tree/drivers_develop/lantz/drivers)
+url: [https://github.com/awsch/lantz/tree/drivers_develop](https://github.com/awsch/lantz/tree/drivers_develop)  
+docs: [http://lantz.readthedocs.org/en/0.3/](http://lantz.readthedocs.org/en/0.3/)  
+drivers: [https://github.com/awsch/lantz/tree/drivers_develop/lantz/drivers](https://github.com/awsch/lantz/tree/drivers_develop/lantz/drivers)  
 
 
 ## PyMeasure
@@ -67,8 +67,8 @@ taking data easy, and (2) a system for running experiment procedures and
 graphing their data live.
 
 url: [https://github.com/ralph-group/pymeasure](https://github.com/ralph-group/pymeasure)  
-docs: [http://pymeasure.readthedocs.org/en/latest/](http://pymeasure.readthedocs.org/en/latest/)
-drivers: [https://github.com/ralph-group/pymeasure/tree/master/pymeasure/instruments](https://github.com/ralph-group/pymeasure/tree/master/pymeasure/instruments)
+docs: [http://pymeasure.readthedocs.org/en/latest/](http://pymeasure.readthedocs.org/en/latest/)  
+drivers: [https://github.com/ralph-group/pymeasure/tree/master/pymeasure/instruments](https://github.com/ralph-group/pymeasure/tree/master/pymeasure/instruments)  
 
 
 ## QCodes
@@ -82,9 +82,9 @@ developed to serve the needs of nanoelectronic device experiments, it is not
 inherently limited to such experiments, and can be used anywhere a system with
 many degrees of freedom is controllable by computer.
 
-url: [https://github.com/QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes)
-docs: [https://qcodes.github.io/Qcodes/](https://qcodes.github.io/Qcodes/)
-drivers: [https://github.com/QCoDeS/Qcodes/tree/master/qcodes/instrument_drivers](https://github.com/QCoDeS/Qcodes/tree/master/qcodes/instrument_drivers)
+url: [https://github.com/QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes)  
+docs: [https://qcodes.github.io/Qcodes/](https://qcodes.github.io/Qcodes/)  
+drivers: [https://github.com/QCoDeS/Qcodes/tree/master/qcodes/instrument_drivers](https://github.com/QCoDeS/Qcodes/tree/master/qcodes/instrument_drivers)  
 
 
 ## QTLab - Aalto fork
@@ -94,5 +94,5 @@ drivers: [https://github.com/QCoDeS/Qcodes/tree/master/qcodes/instrument_drivers
 Non-maintained fork of the QT Lab environment.
 
 url: [https://github.com/govenius/qtlab](https://github.com/govenius/qtlab)  
-docs: [https://github.com/govenius/qtlab/blob/aalto/MANUAL](https://github.com/govenius/qtlab/blob/aalto/MANUAL)
-drivers: [https://github.com/govenius/qtlab/tree/aalto/instrument_plugins](https://github.com/govenius/qtlab/tree/aalto/instrument_plugins)
+docs: [https://github.com/govenius/qtlab/blob/aalto/MANUAL](https://github.com/govenius/qtlab/blob/aalto/MANUAL)  
+drivers: [https://github.com/govenius/qtlab/tree/aalto/instrument_plugins](https://github.com/govenius/qtlab/tree/aalto/instrument_plugins)  
